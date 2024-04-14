@@ -1,6 +1,6 @@
 # Prompt name
 
-Contributed by : [@username](https://github.com/username)
+Contributed by : [@mohammedellihr](https://github.com/mohammedellihr)
 
 Prompt description here ..
 
