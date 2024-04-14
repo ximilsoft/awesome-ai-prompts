@@ -1,8 +1,8 @@
 # Awesome AI Prompts
 
 # Categories
-* [Advertising](./prompts/Advertising)
-* [Programming](./prompts/Programming)
+* [Advertising](./prompts/advertising)
+* [Programming](./prompts/programming)
 
 
 # Contributors
