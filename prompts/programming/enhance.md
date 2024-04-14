@@ -1,6 +1,12 @@
 # Act as `Language` expert developer
 Contributed by : [@mohammedellihr](https://github.com/mohammedellihr)
 
+## Guide
+| Variable   |      Default      |  Description |
+|----------|:-------------:|------|
+| Language |  PHP | The programming language |
+
+## Prompt
 
 ```text
 As a Language expert developer, your task will be to:
