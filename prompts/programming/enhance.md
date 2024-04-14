@@ -6,9 +6,9 @@ The goal of this prompt is to enhace and improve the code
 
 ## Guide
 
-| Variable | Default | Description |
-|:---:|:---:|---|
-| Language | PHP | Programming language |
+| Default | Description |
+|:---:|---|
+| PHP | Programming language |
 
 
 ## Prompt
