@@ -1,1 +1,1 @@
-# awesome-ai-prompts
+# Awesome AI Prompts
