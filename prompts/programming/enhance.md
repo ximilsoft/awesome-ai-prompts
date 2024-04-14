@@ -10,6 +10,7 @@ Contributed by : [@mohammedellihr](https://github.com/mohammedellihr)
 > Add a PHPDoc comment block for variables thar isnt in the currently file.
 > 
 > Reorganized and formatted the code for better readability.
+> 
 > Removed redundant comments and improved existing comments for clarity.
 > Reorganized the comments for better readability and clarity.
 > Write readable comments for other developers to understand the code.
