@@ -1,8 +1,9 @@
 # Awesome AI Prompts
 
-# Usage
+# Categories
+* [Advertising](./Advertising)
+* [Programming](./Programming)
 
-# Contribution
 
 # Contributors
 
