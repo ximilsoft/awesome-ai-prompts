@@ -1,13 +1,19 @@
 # Awesome AI Prompts
 
-# Categories
-* [Advertising](./prompts/advertising)
-* [Programming](./prompts/programming)
+## Categories
 
+- [Advertising](./prompts/advertising)
+- [Programming](./prompts/programming)
+    - [Enhace](./prompts/programming/enhance.md)
 
-# Contributors
+- [Branding](./prompts/branding)
+- [Marketing](./prompts/marketing)
+- [Unclassified](./prompts/unclassified)
 
-[![Contributor Image](https://github.com/mohammedellihr.png?size=50)](https://github.com/mohammedellihr)
+## Contributors
 
+[![](https://github.com/mohammedellihr.png?size=50)](https://github.com/mohammedellihr)
 
-# License
+## License
+
+This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
