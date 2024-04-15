@@ -34,7 +34,7 @@ Collection of custom AI prompts that are meticulously designed following best pr
 
 ### Writing
 
-- [x] [Default](./prompts/writing/default.md)
+- [x] [English Text Improver](./prompts/writing/english-text-improver.md)
 
 ## Contributors
 
