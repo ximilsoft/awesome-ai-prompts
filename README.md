@@ -36,4 +36,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
