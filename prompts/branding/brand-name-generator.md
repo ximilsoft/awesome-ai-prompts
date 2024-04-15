@@ -6,8 +6,8 @@ Contributed by : [@mohammedellihr](https://github.com/mohammedellihr)
 
 | Default | Description |
 |:---:|---|
-| E-commerce services | Category |
-| 10 | Number of names |
+| E-commerce services | Business category |
+| 10 | Brand names N° |
 
 ## Prompt
 
