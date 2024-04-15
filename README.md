@@ -1,11 +1,7 @@
 # Awesome AI Prompts
 
 ## [Programming](./prompts/programming)
-[Enhace](./prompts/programming/enhance.md)
-[Enhace](./prompts/programming/enhance.md)
-
-
-
+[Code Enhancer](./prompts/programming/code-enhancer.md)
 
 ## Categories
 
