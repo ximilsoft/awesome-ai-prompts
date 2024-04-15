@@ -44,7 +44,7 @@ If you have an idea for a new prompt or want to improve existing ones, check out
 
 ## License
 
-This project is licensed under the MIT License - see the [license.txt](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [license](LICENSE) file for details.
 
 ## Support
 
