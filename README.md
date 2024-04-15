@@ -18,13 +18,7 @@ Collection of custom AI prompts that are meticulously designed following best pr
 
 ### Meta
 
-#### Facebook
-
-- [x] [Facebook Page Category Selector](./prompts/meta/facebook/facebook-page-category-selector.md)
-
-#### Instagram
-
-- [x] [Default](./prompts/meta/instagram/default.md)
+- [x] [Facebook Page Category Selector](./prompts/meta/facebook-page-category-selector.md)
 
 ### Programming
 
