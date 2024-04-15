@@ -32,7 +32,7 @@ To add a new prompt to this repository, a contributor should take the following 
 ### New Prompt Checklist:
 
 - [ ] I've confirmed the prompt works well
-- [ ] I've added `[x] [Prompt Title](./prompts/folder-name/prompt-title.md)` to the README.md
-- [ ] Removed "Act as" from the title on CSV
+- [ ] I've added the prompt file in `prompts`
+- [ ] I've added `[x] [Prompt Title](./prompts/folder-name/prompt-title.md)` to the `README.md`
 
 Please ensure these requirements are met before submitting a pull request.
