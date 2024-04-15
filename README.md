@@ -43,3 +43,7 @@ Collection of custom AI prompts that are meticulously designed following best pr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+
+## Support
+
+Support the project with star.
