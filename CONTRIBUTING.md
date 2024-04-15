@@ -18,7 +18,7 @@ To add a new prompt to this repository, a contributor should take the following 
     - <b>Note:</b> If the folder does not exist, create it.
 2. Add the prompt to `README.md`
     Add the prompt to `README.md` using the following markdown template:
-        `[x] [Prompt Title](./prompts/folder-name/prompt-title.md)`
+    - `[x] [Prompt Title](./prompts/folder-name/prompt-title.md)`
 3. Submit a pull request on the repository's main branch.
     - If possible, provide some documentation of how you tested your prompt and the kinds of results you received.
     - Be sure to include a detailed title and description.
