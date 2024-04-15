@@ -26,7 +26,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Unclassified
 
-- [] [Similar Sentences Generator](./prompts/unclassified/similar-sentences-generator.md)
+- [ ] [Similar Sentences Generator](./prompts/unclassified/similar-sentences-generator.md)
 
 ### Writing
 
