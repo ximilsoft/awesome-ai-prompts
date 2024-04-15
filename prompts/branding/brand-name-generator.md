@@ -7,7 +7,7 @@ Contributed by : [@mohammedellihr](https://github.com/mohammedellihr)
 | Default | Description |
 |:---:|---|
 | E-commerce services | Business category |
-| 10 | Names Number |
+| 10 | Number of generations |
 
 ## Prompt
 
