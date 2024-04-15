@@ -1,6 +1,6 @@
 # Awesome AI Prompts
 
-A set of customized AI prompts that are meticulously designed following best practices to achieve optimal desired results.
+Collection of custom AI prompts that are meticulously designed following best practices to achieve optimal desired results.
 
 # Prompts
 
