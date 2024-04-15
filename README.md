@@ -16,6 +16,10 @@ Collection of custom AI prompts that are meticulously designed following best pr
 
 - [x] [Default](./prompts/marketing/default.md)
 
+### Meta
+
+- [x] [Facebook Page Category Selector](./prompts/meta/facebook/facebook-page-category-selector.md)
+
 ### Programming
 
 - [x] [Code Enhancer](./prompts/programming/code-enhancer.md)

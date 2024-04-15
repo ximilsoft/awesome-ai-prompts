@@ -6,12 +6,10 @@ Contributed by : [@mohammedellihr](https://github.com/mohammedellihr)
 
 | Default | Description |
 |:---:|---|
-| Var | Description here .. |
+| Var | Description_here .. |
 
 ## Prompt
 
 ```text
 Prompt here ..
-
-To confirm your understanding and readiness, please respond with: "I am ready, You can start now.
 ```
