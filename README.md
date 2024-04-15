@@ -2,31 +2,31 @@
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-## Advertising
+### Advertising
 
 - [x] [Default](./prompts/advertising/default.md)
 
-## Branding
+### Branding
 
 - [x] [Default](./prompts/branding/default.md)
 
-## Marketing
+### Marketing
 
 - [x] [Default](./prompts/marketing/default.md)
 
-## Programming
+### Programming
 
 - [x] [Code Enhancer](./prompts/programming/code-enhancer.md)
 
-## Prompt engineering
+### Prompt engineering
 
 - [x] [Default](./prompts/prompt-engineering/default.md)
 
-## Unclassified
+### Unclassified
 
 - [x] [Default](./prompts/unclassified/default.md)
 
-## Writing
+### Writing
 
 - [x] [Default](./prompts/writing/default.md)
 
