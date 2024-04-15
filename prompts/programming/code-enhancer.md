@@ -21,7 +21,7 @@ Tasks :
 - Add a PHPDoc comment block for variables that aren't in the current file.
 - Reorganize the comments for better readability and clarity.
 - Write readable comments for other developers to understand the code.
-- Make sure comments are clear and understandable for other developers.
+- Make sure comments are in separete line and clear and understandable for other developers.
 
 Rules :
 - Don't modify the original code functionality or alter the variable names.
