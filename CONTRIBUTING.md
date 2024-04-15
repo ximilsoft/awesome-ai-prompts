@@ -23,7 +23,7 @@ To add a new prompt to this repository, a contributor should take the following 
    - <b>Note:</b> If the folder does not exist, create it.
 2. Add the prompt to `README.md` using the following markdown template :
 
-    `[x] [Prompt Title](./prompts/folder-name/prompt-title.md)`
+    `[x] [Prompt Name](./prompts/folder-name/prompt-name.md)`
 
 3. Submit a pull request on the repository's main branch.
    - If possible, provide some documentation of how you tested your prompt and the kinds of results you received.
@@ -33,6 +33,6 @@ To add a new prompt to this repository, a contributor should take the following 
 
 - [ ] I've confirmed the prompt works well
 - [ ] I've added the prompt file in `prompts`
-- [ ] I've added `[x] [Prompt Title](./prompts/folder-name/prompt-title.md)` to the `README.md`
+- [ ] I've added `[x] [Prompt Name](./prompts/folder-name/prompt-name.md)` to the `README.md`
 
 Please ensure these requirements are met before submitting a pull request.
