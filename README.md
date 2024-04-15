@@ -48,4 +48,4 @@ This project is licensed under the MIT License - see the [license](LICENSE) file
 
 ## Support
 
-If you find this project helpful, show your support by starring the repository!
+If you find this project helpful, show your support by starring the repository.
