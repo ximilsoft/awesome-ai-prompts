@@ -1,3 +1,3 @@
-# Default
+# Category-Name
 
-You can start create new prompt by pasting the [PROMPT](../PROMPT.md) here. check out [CONTRIBUTING](../CONTRIBUTING.md) for more information.
+You can start creating a new prompt by pasting the [PROMPT](../PROMPT.md) here. Check out the [CONTRIBUTING](../CONTRIBUTING.md) for more information.
