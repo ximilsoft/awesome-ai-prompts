@@ -29,8 +29,7 @@ Instructions that you must follow in the process :
 
 - Follow the best practice for building and choosing brand names.
 
-Expected answer :
-
-- Following the previous instructions.
+You are expected to :
+- Following all the previous instructions.
 - Provide a list of 10 potential names along with a brief explanation of why each one is suitable for this specific brand.
 ```
