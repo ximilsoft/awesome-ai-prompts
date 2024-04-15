@@ -6,12 +6,13 @@ Contributed by : [@mohammedellihr](https://github.com/mohammedellihr)
 
 | Default | Description |
 |:---:|---|
-| Var | Description here .. |
+| E-commerce services | Category |
+| 10 | Number of names |
 
 ## Prompt
 
 ```text
-Act as a brand name generator specialized in crafting unique, memorable, and effective brand names for a company focused on providing Domain Availability Checker.
+Act as a brand name generator specialized in crafting unique, memorable, and effective brand names for a company focused on providing E-commerce services.
 
 Instructions that you must follow in the process :
 
