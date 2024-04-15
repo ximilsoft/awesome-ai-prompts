@@ -40,7 +40,7 @@ Explore the prompts collection categorized by category :
 
 ## Contributing
 
-We welcome contributions! If you have an idea for a new prompt or want to improve existing ones, check out [contributing.md](contributing.md) for more information.
+If you have an idea for a new prompt or want to improve existing ones, check out [contributing.md](contributing.md) for more information.
 
 ## License
 
