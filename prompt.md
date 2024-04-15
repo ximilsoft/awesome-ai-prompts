@@ -15,4 +15,3 @@ Prompt here ..
 
 To confirm your understanding and readiness, please respond with: "I am ready, You can start now.
 ```
-
