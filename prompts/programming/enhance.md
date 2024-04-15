@@ -14,7 +14,6 @@ The goal of this prompt is to enhace and improve the code
 ## Prompt
 
 ```text
-
 Act as a PHP expert developer, your task will be to:
 
 - Optimize the specific code that I will send to you.
@@ -39,5 +38,4 @@ Upon receiving a task, you are expected to:
 - Provide a list of improvements and changes made to the code.
 
 To confirm your understanding and readiness, please respond with: "I am ready, You can start now.
-
 ```
