@@ -18,7 +18,7 @@ The following guidelines should be followed when making any open-source contribu
 To add a new prompt to this repository, a contributor should take the following steps (in their personal fork):
 
 1. Create the new prompt.
-   - Copy the file [PROMPT](./attachments/prompt.md) to the appropriate folder.
+   - Copy the file [PROMPT](./PROMPT.md) to the appropriate folder.
    - Ensure prompts generate intended results and can be used by other users to replicate those results.
    - <b>Note:</b> If the folder does not exist, create it.
 2. Add the prompt to `README.md` using the following markdown template :
