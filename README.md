@@ -1,6 +1,6 @@
 # Awesome AI Prompts
 
-Collection of custom AI prompts that are meticulously designed following best practices to achieve optimal desired results.
+Collection of custom AI prompts for ChatGPT (OpenAI) and Bard (Google AI) that are meticulously designed following best practices to achieve optimal desired results.
 
 # Prompts
 
