@@ -8,7 +8,7 @@ Explore the prompts collection categorized by category :
 
 ### Advertising
 
-- [x] [Default](./prompts/advertising/default.md)
+- [x] [Main](./prompts/advertising/main.md)
 
 ### Branding
 
@@ -16,7 +16,7 @@ Explore the prompts collection categorized by category :
 
 ### Marketing
 
-- [x] [Default](./prompts/marketing/default.md)
+- [x] [Main](./prompts/marketing/main.md)
 
 ### Meta
 
