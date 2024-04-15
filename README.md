@@ -26,7 +26,7 @@ Collection of custom AI prompts that are meticulously designed following best pr
 
 ### Prompt engineering
 
-- [x] [Default](./prompts/prompt-engineering/default.md)
+- [x] [Prompt Improver](./prompts/prompt-engineering/prompt-improver.md)
 
 ### Unclassified
 
