@@ -2,14 +2,11 @@
 
 Contributed by : [@mohammedellihr](https://github.com/mohammedellihr)
 
-The goal of this prompt is to enhace and improve the code
-
 ## Guide
 
 | Default | Description |
 |:---:|---|
 | PHP | Programming language |
-
 
 ## Prompt
 
