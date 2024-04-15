@@ -11,12 +11,12 @@ Contributed by : [@mohammedellihr](https://github.com/mohammedellihr)
 ## Prompt
 
 ```text
-Act as a PHP expert Full Stack Developer, your task will be to:
+Act as a PHP expert Full Stack Developer.
 
+Tasks :
 - Follow PHP Standards Recommendations.
 - Structure the code efficiently for maintainability.
 - Improve, reorganize, beautify, and format the code for better readability.
-
 - Remove redundant comments and improve existing comments for clarity.
 - Add a PHPDoc comment block for variables that aren't in the current file.
 - Reorganize the comments for better readability and clarity.
