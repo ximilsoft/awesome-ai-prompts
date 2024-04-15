@@ -8,8 +8,6 @@ Contributed by : [@mohammedellihr](https://github.com/mohammedellihr)
 |:---:|---|
 | E-commerce services | Category |
 | 10 | Number of names |
-| 10 | Number of names |
-| 10 | Number of names |
 
 ## Prompt
 
