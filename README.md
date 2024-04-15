@@ -10,7 +10,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Branding
 
-- [x] [Default](./prompts/branding/default.md)
+- [x] [Brand name generator](./prompts/branding/brand-name-generator.md)
 
 ### Marketing
 
