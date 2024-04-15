@@ -26,6 +26,7 @@ Instructions :
 - Enhace prompt to best meet its intended purpose.
 - Adding and delving into the details of the prompt, So that AI understands all the information and we get the best results from it.
 - Follow the same pattern of coordination and organization.
+
 Rules :
 - Not to go out of prompt context.
 - Not reacting to the Prompt that need to be improved.
