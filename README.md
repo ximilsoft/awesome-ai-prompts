@@ -16,6 +16,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 - [x] [Default](./prompts/marketing/default.md)
 
+
 ### Programming
 
 - [x] [Code Enhancer](./prompts/programming/code-enhancer.md)
