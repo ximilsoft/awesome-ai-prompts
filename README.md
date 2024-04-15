@@ -4,6 +4,8 @@ Collection of custom AI prompts for ChatGPT (OpenAI) and Bard (Google AI) that a
 
 # Prompts
 
+Explore the prompts collection categorized by category :
+
 ### Advertising
 
 - [x] [Default](./prompts/advertising/default.md)
@@ -36,14 +38,14 @@ Collection of custom AI prompts for ChatGPT (OpenAI) and Bard (Google AI) that a
 
 - [x] [English Text Improver](./prompts/writing/english-text-improver.md)
 
-## Contributors
+## Contributing
 
-[![](https://github.com/mohammedellihr.png?size=50)](https://github.com/mohammedellihr)
+We welcome contributions! If you have an idea for a new prompt or want to improve existing ones, check out [contributing.md](contributing.md) for more information.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [license.txt](LICENSE.txt) file for details.
 
 ## Support
 
-Support the project with star.
+If you find this project helpful, show your support by starring the repository!
