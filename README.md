@@ -33,6 +33,7 @@ Explore the prompts collection categorized by category :
 ### Unclassified
 
 - [ ] [Similar Sentences Generator](./prompts/unclassified/similar-sentences-generator.md)
+- [ ] [Convert Case Text Generator Tool](./prompts/unclassified/convert-case-text-generator-tool.md)
 
 ### Writing
 
