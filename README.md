@@ -6,17 +6,9 @@ Collection of custom AI prompts for ChatGPT (OpenAI) and Bard (Google AI) that a
 
 Explore the prompts collection categorized by category :
 
-### Advertising
-
-- [x] [Main](./prompts/advertising/main.md)
-
 ### Branding
 
 - [x] [Brand name generator](./prompts/branding/brand-name-generator.md)
-
-### Marketing
-
-- [x] [Main](./prompts/marketing/main.md)
 
 ### Meta
 
